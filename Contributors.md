@@ -5,7 +5,7 @@
 - [Muhammad Ehsan](https://github.com/MuhammadEhsan02) This is Ehsan, Data Scientist.
 - [Baba Dan Constantin](https://github.com/fuixone) Thanks for the tutorial.
 - [Muhammad Gamal Azab](https://github.com/muhammadgamalazab) This is Jimmy, DevOps Engineer.
-- [Farhat Hashmi Shaik](https://github.com/ShaikFarhatHashmi/my-first-contribution.git) This is my first contribution of a open source project
+- [Farhat Hashmi Shaik](https://github.com/ShaikFarhatHashmi) This is my first contribution of a open source project
 ---
 - Amit Kumar[https://github.com/](https://github.com/amit15000) Thanks for the beginners tutorial.
 - [Ahmad Allahverdiyev](https://github.com/hmd37) Thank you for the tutorial
